@@ -1,0 +1,113 @@
+.breadcrumb__about{
+    color: white !important;
+}
+.breadcrumb__belowlist{
+    color: white !important;
+}
+.breadcrumb__belowfil{
+    fill: white !important;
+}
+.accordion-body p {
+    text-indent: 30px;
+ }
+
+ .readmore:before {
+    background: linear-gradient(to top, #f0f8f7, transparent);
+ }
+ .newhiden{
+     overflow:initial;
+ }
+ .alignmap{
+     margin-top:5px !important;
+ }
+ .paddingaddd{
+    padding-right: 50px;
+ }
+ .mobilelogo{
+    height: 100%;
+    width: 150% !important;
+    position: relative;
+    top: 100px;
+    left: 70px;
+ }
+ @media screen and (max-width:600px){
+    .gidfunction{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+ }
+ .mobilenone{
+    display: none;
+ }
+ 
+ .mobilelogo{
+    display: none;
+ }
+ }
+ @media screen and (max-width:914px){
+    .paddingaddd{
+    padding-right: 0px;
+ }
+    .certicateimages{
+    display:none;
+ }
+
+
+       .slider__shape-4 {
+display: block !important;
+bottom: -85px;
+left: 0;
+}
+.slider__shape-5 {
+display: block !important; 
+}
+ }
+ .readmore:before{
+     background:none;
+ }
+ .grey-bg-9{
+     background-color:#f5f6f8;
+ }
+ .hovereffect{
+     cursor:text;
+     color:#555c63 !important;
+ }
+   .hovereffect:hover {
+     cursor:text;
+     color:#555c63 !important;
+ }
+ .widthimage,.widthimage1{
+    width: 30px !important;
+    height: 1em !important;
+    margin-top: 5px !important;
+ }
+
+ .locationicon{
+    position: relative;
+    top: -15px;
+ }
+ .locationicon1{
+    position: relative;
+    top: -15px;
+ }
+ @media (min-width: 412px) and (max-width: 810px){
+    .locationicon {
+position: relative;
+top: 0px;
+}
+ }
+ @media screen and (max-width:390px){
+    .locationicon1 {
+position: relative;
+top: -30px;
+}
+.locationicon {
+position: relative;
+top: -15px;
+}
+ }
+ .fontsize{
+    font-size: 20px !important;
+ }
+ .fontdecrease{
+    font-size: 15px !important;
+ }
